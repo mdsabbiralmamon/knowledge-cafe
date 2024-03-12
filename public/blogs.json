@@ -18,7 +18,7 @@
     "author": "John Doe",
     "posted_date": "2024-03-11",
     "reading_time": "30 mins",
-    "hashtags": ["sci-fi", "exploration", "future"],
+    "hashtags": ["sci_fi", "exploration", "future"],
     "category": "Science Fiction"
   },
   {
@@ -51,7 +51,7 @@
     "author": "Samantha Brown",
     "posted_date": "2024-03-08",
     "reading_time": "35 mins",
-    "hashtags": ["romance", "time-travel", "historical"],
+    "hashtags": ["romance", "time_travel", "historical"],
     "category": "Romance"
   },
   {
