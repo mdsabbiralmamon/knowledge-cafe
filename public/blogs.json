@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "cover": "https://s3.amazonaws.com/startupcollective-com/wp-content/uploads/20150803150028/Company-Blog-675x320.jpg",
+    "title": "The Mystery of the Sapphire Sword",
+    "author_image": "https://i.imgur.com/Ggks2Pl.jpeg",
+    "author": "Jessica Smith",
+    "posted_date": "2024-03-12",
+    "reading_time": "25 mins",
+    "hashtags": ["adventure", "mystery", "fiction"],
+    "category": "Thriller"
+  },
+  {
+    "id": 2,
+    "cover": "https://s3.amazonaws.com/startupcollective-com/wp-content/uploads/20150803150028/Company-Blog-675x320.jpg",
+    "title": "Beyond the Horizon",
+    "author_image": "https://i.imgur.com/Ggks2Pl.jpeg",
+    "author": "John Doe",
+    "posted_date": "2024-03-11",
+    "reading_time": "30 mins",
+    "hashtags": ["sci-fi", "exploration", "future"],
+    "category": "Science Fiction"
+  },
+  {
+    "id": 3,
+    "cover": "https://s3.amazonaws.com/startupcollective-com/wp-content/uploads/20150803150028/Company-Blog-675x320.jpg",
+    "title": "The Secret Garden",
+    "author_image": "https://i.imgur.com/Ggks2Pl.jpeg",
+    "author": "Emily Green",
+    "posted_date": "2024-03-10",
+    "reading_time": "20 mins",
+    "hashtags": ["nature", "magic", "children"],
+    "category": "Fantasy"
+  },
+  {
+    "id": 4,
+    "cover": "https://s3.amazonaws.com/startupcollective-com/wp-content/uploads/20150803150028/Company-Blog-675x320.jpg",
+    "title": "Code Breakers",
+    "author_image": "https://i.imgur.com/Ggks2Pl.jpeg",
+    "author": "Alex Johnson",
+    "posted_date": "2024-03-09",
+    "reading_time": "40 mins",
+    "hashtags": ["technology", "puzzle", "cybersecurity"],
+    "category": "Mystery"
+  },
+  {
+    "id": 5,
+    "cover": "https://s3.amazonaws.com/startupcollective-com/wp-content/uploads/20150803150028/Company-Blog-675x320.jpg",
+    "title": "Echoes of Eternity",
+    "author_image": "https://i.imgur.com/Ggks2Pl.jpeg",
+    "author": "Samantha Brown",
+    "posted_date": "2024-03-08",
+    "reading_time": "35 mins",
+    "hashtags": ["romance", "time-travel", "historical"],
+    "category": "Romance"
+  },
+  {
+    "id": 6,
+    "cover": "https://s3.amazonaws.com/startupcollective-com/wp-content/uploads/20150803150028/Company-Blog-675x320.jpg",
+    "title": "Into the Unknown",
+    "author_image": "https://i.imgur.com/Ggks2Pl.jpeg",
+    "author": "Michael Adams",
+    "posted_date": "2024-03-07",
+    "reading_time": "45 mins",
+    "hashtags": ["adventure", "exploration", "discovery"],
+    "category": "Adventure"
+  },
+  {
+    "id": 7,
+    "cover": "https://s3.amazonaws.com/startupcollective-com/wp-content/uploads/20150803150028/Company-Blog-675x320.jpg",
+    "title": "City of Shadows",
+    "author_image": "https://i.imgur.com/Ggks2Pl.jpeg",
+    "author": "Daniel White",
+    "posted_date": "2024-03-06",
+    "reading_time": "28 mins",
+    "hashtags": ["urban", "mystery", "noir"],
+    "category": "Thriller"
+  },
+  {
+    "id": 8,
+    "cover": "https://s3.amazonaws.com/startupcollective-com/wp-content/uploads/20150803150028/Company-Blog-675x320.jpg",
+    "title": "Starlight Sonata",
+    "author_image": "https://i.imgur.com/Ggks2Pl.jpeg",
+    "author": "Grace Taylor",
+    "posted_date": "2024-03-05",
+    "reading_time": "22 mins",
+    "hashtags": ["space", "music", "dreams"],
+    "category": "Science Fiction"
+  },
+  {
+    "id": 9,
+    "cover": "https://s3.amazonaws.com/startupcollective-com/wp-content/uploads/20150803150028/Company-Blog-675x320.jpg",
+    "title": "The Enchanted Forest",
+    "author_image": "https://i.imgur.com/Ggks2Pl.jpeg",
+    "author": "David Martinez",
+    "posted_date": "2024-03-04",
+    "reading_time": "18 mins",
+    "hashtags": ["fantasy", "magic", "nature"],
+    "category": "Fantasy"
+  },
+  {
+    "id": 10,
+    "cover": "https://s3.amazonaws.com/startupcollective-com/wp-content/uploads/20150803150028/Company-Blog-675x320.jpg",
+    "title": "The Quantum Paradox",
+    "author_image": "https://i.imgur.com/Ggks2Pl.jpeg",
+    "author": "Sophia Lee",
+    "posted_date": "2024-03-03",
+    "reading_time": "38 mins",
+    "hashtags": ["science", "philosophy", "time"],
+    "category": "Science"
+  }
+]
